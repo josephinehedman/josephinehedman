@@ -1,5 +1,5 @@
 ## Hi there, my name is Josephine 👋
-I like cats 🐱, working out 🏃‍♀️, travelling 🌴 and food 🍝.
+I like cats 🐱, travelling 🌴, working out 🏃‍♀️ and food 🍝.
 
 💻 I currently code in JavaScript.
 
