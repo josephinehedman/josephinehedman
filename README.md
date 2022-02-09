@@ -1,4 +1,4 @@
-### Hi there, my name is Josephine 👋
+## Hi there, my name is Josephine 👋
 I like cats 🐱, working out 🏃‍♀️, travelling 🌴 and food 🍝
 
 <!--
