@@ -1,4 +1,5 @@
 ### Hi there, my name is Josephine 👋
+I like cats 🐱, working out 🏃‍♀️, travelling 🌴 and food 🍝
 
 <!--
 **josephinehedman/josephinehedman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
